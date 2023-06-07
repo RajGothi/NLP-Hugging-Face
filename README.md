@@ -1,3 +1,3 @@
 # NLP-Hugging-Face
 
-This Repo contains the Hugging Face NLP tutorial.
+This Repo contains the Hugging Face NLP and Speech tutorial.
