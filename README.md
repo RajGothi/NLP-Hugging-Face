@@ -1,3 +1,3 @@
 # NLP-Speech-Hugging-Face
 
-This Repo contains the Hugging Face NLP and Speech tutorial.
+It includes various NLP and speech tasks using the Hugging Face and PyTorch libraries.
